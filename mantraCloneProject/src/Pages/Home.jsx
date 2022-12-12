@@ -30,7 +30,7 @@ function Home() {
       <div
         style={{
           margin: "auto",
-          border: "1px solid red",
+          border: "1px solid white",
           width: "1200px",
           // height:'1000px',
         }}
